@@ -1,6 +1,6 @@
 # AddBlocker
 
-This is an beter vesion of [YouTub Addblocker]() as it blocks all add on evey website
+This is an beter vesion of [YouTub Addblocker](https://github.com/TheOrangeCow/YouTube_addblocker) as it blocks all add on evey website
 
 ## Installing in Chrome, Edge, and Firefox
 
